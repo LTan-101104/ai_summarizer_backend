@@ -1,0 +1,5 @@
+If you find any important things worh noting down, include it in here
+
+Day 1: set up and deploy database, also finish tutorial of docker; testing aws rds: 
+postgres username: postgres_tan
+postgres password: Kane101104#
