@@ -1,3 +1,5 @@
+Note for description of project:
+
 This project aims to help you learn a few things:
 -How to implement authentication with Flask-JWT-Extended (for convenience) and HTTP-only cookies (standard method to store access tokens and refresh tokens)
 -How to integrate an app with a PostgresSQL database locally
